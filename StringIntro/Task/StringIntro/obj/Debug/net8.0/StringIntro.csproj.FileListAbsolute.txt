@@ -1,0 +1,14 @@
+C:\Users\novbe2\source\repos\StringIntro\StringIntro\bin\Debug\net8.0\StringIntro.exe
+C:\Users\novbe2\source\repos\StringIntro\StringIntro\bin\Debug\net8.0\StringIntro.deps.json
+C:\Users\novbe2\source\repos\StringIntro\StringIntro\bin\Debug\net8.0\StringIntro.runtimeconfig.json
+C:\Users\novbe2\source\repos\StringIntro\StringIntro\bin\Debug\net8.0\StringIntro.dll
+C:\Users\novbe2\source\repos\StringIntro\StringIntro\bin\Debug\net8.0\StringIntro.pdb
+C:\Users\novbe2\source\repos\StringIntro\StringIntro\obj\Debug\net8.0\StringIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novbe2\source\repos\StringIntro\StringIntro\obj\Debug\net8.0\StringIntro.AssemblyInfoInputs.cache
+C:\Users\novbe2\source\repos\StringIntro\StringIntro\obj\Debug\net8.0\StringIntro.AssemblyInfo.cs
+C:\Users\novbe2\source\repos\StringIntro\StringIntro\obj\Debug\net8.0\StringIntro.csproj.CoreCompileInputs.cache
+C:\Users\novbe2\source\repos\StringIntro\StringIntro\obj\Debug\net8.0\StringIntro.dll
+C:\Users\novbe2\source\repos\StringIntro\StringIntro\obj\Debug\net8.0\refint\StringIntro.dll
+C:\Users\novbe2\source\repos\StringIntro\StringIntro\obj\Debug\net8.0\StringIntro.pdb
+C:\Users\novbe2\source\repos\StringIntro\StringIntro\obj\Debug\net8.0\StringIntro.genruntimeconfig.cache
+C:\Users\novbe2\source\repos\StringIntro\StringIntro\obj\Debug\net8.0\ref\StringIntro.dll
