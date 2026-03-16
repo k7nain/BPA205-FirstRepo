@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7DDh0hHzVtI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\novbe2\\source\\repos\\RefOut-Task\\RefOut-Task\\RefOut-Task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\novbe2\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.308\\microsoft.net.sdk.compilers.toolset.9.0.308.nupkg.sha512"
+  ],
+  "logs": []
+}

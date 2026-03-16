@@ -1,0 +1,14 @@
+C:\Users\novbe2\source\repos\RefOut-Task\RefOut-Task\bin\Debug\net8.0\RefOut-Task.exe
+C:\Users\novbe2\source\repos\RefOut-Task\RefOut-Task\bin\Debug\net8.0\RefOut-Task.deps.json
+C:\Users\novbe2\source\repos\RefOut-Task\RefOut-Task\bin\Debug\net8.0\RefOut-Task.runtimeconfig.json
+C:\Users\novbe2\source\repos\RefOut-Task\RefOut-Task\bin\Debug\net8.0\RefOut-Task.dll
+C:\Users\novbe2\source\repos\RefOut-Task\RefOut-Task\bin\Debug\net8.0\RefOut-Task.pdb
+C:\Users\novbe2\source\repos\RefOut-Task\RefOut-Task\obj\Debug\net8.0\RefOut-Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novbe2\source\repos\RefOut-Task\RefOut-Task\obj\Debug\net8.0\RefOut-Task.AssemblyInfoInputs.cache
+C:\Users\novbe2\source\repos\RefOut-Task\RefOut-Task\obj\Debug\net8.0\RefOut-Task.AssemblyInfo.cs
+C:\Users\novbe2\source\repos\RefOut-Task\RefOut-Task\obj\Debug\net8.0\RefOut-Task.csproj.CoreCompileInputs.cache
+C:\Users\novbe2\source\repos\RefOut-Task\RefOut-Task\obj\Debug\net8.0\RefOut-Task.dll
+C:\Users\novbe2\source\repos\RefOut-Task\RefOut-Task\obj\Debug\net8.0\refint\RefOut-Task.dll
+C:\Users\novbe2\source\repos\RefOut-Task\RefOut-Task\obj\Debug\net8.0\RefOut-Task.pdb
+C:\Users\novbe2\source\repos\RefOut-Task\RefOut-Task\obj\Debug\net8.0\RefOut-Task.genruntimeconfig.cache
+C:\Users\novbe2\source\repos\RefOut-Task\RefOut-Task\obj\Debug\net8.0\ref\RefOut-Task.dll
