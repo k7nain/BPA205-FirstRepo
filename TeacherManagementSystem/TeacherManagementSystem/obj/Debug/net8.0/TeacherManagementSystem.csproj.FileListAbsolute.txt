@@ -1,0 +1,14 @@
+C:\Users\novbe2\source\repos\TeacherManagementSystem\TeacherManagementSystem\bin\Debug\net8.0\TeacherManagementSystem.exe
+C:\Users\novbe2\source\repos\TeacherManagementSystem\TeacherManagementSystem\bin\Debug\net8.0\TeacherManagementSystem.deps.json
+C:\Users\novbe2\source\repos\TeacherManagementSystem\TeacherManagementSystem\bin\Debug\net8.0\TeacherManagementSystem.runtimeconfig.json
+C:\Users\novbe2\source\repos\TeacherManagementSystem\TeacherManagementSystem\bin\Debug\net8.0\TeacherManagementSystem.dll
+C:\Users\novbe2\source\repos\TeacherManagementSystem\TeacherManagementSystem\bin\Debug\net8.0\TeacherManagementSystem.pdb
+C:\Users\novbe2\source\repos\TeacherManagementSystem\TeacherManagementSystem\obj\Debug\net8.0\TeacherManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novbe2\source\repos\TeacherManagementSystem\TeacherManagementSystem\obj\Debug\net8.0\TeacherManagementSystem.AssemblyInfoInputs.cache
+C:\Users\novbe2\source\repos\TeacherManagementSystem\TeacherManagementSystem\obj\Debug\net8.0\TeacherManagementSystem.AssemblyInfo.cs
+C:\Users\novbe2\source\repos\TeacherManagementSystem\TeacherManagementSystem\obj\Debug\net8.0\TeacherManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\novbe2\source\repos\TeacherManagementSystem\TeacherManagementSystem\obj\Debug\net8.0\TeacherManagementSystem.dll
+C:\Users\novbe2\source\repos\TeacherManagementSystem\TeacherManagementSystem\obj\Debug\net8.0\refint\TeacherManagementSystem.dll
+C:\Users\novbe2\source\repos\TeacherManagementSystem\TeacherManagementSystem\obj\Debug\net8.0\TeacherManagementSystem.pdb
+C:\Users\novbe2\source\repos\TeacherManagementSystem\TeacherManagementSystem\obj\Debug\net8.0\TeacherManagementSystem.genruntimeconfig.cache
+C:\Users\novbe2\source\repos\TeacherManagementSystem\TeacherManagementSystem\obj\Debug\net8.0\ref\TeacherManagementSystem.dll
