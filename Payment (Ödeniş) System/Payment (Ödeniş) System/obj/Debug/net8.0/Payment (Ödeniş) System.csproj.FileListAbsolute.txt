@@ -1,0 +1,14 @@
+C:\Users\novbe2\source\repos\Payment (Ödeniş) System\Payment (Ödeniş) System\bin\Debug\net8.0\Payment (Ödeniş) System.exe
+C:\Users\novbe2\source\repos\Payment (Ödeniş) System\Payment (Ödeniş) System\bin\Debug\net8.0\Payment (Ödeniş) System.deps.json
+C:\Users\novbe2\source\repos\Payment (Ödeniş) System\Payment (Ödeniş) System\bin\Debug\net8.0\Payment (Ödeniş) System.runtimeconfig.json
+C:\Users\novbe2\source\repos\Payment (Ödeniş) System\Payment (Ödeniş) System\bin\Debug\net8.0\Payment (Ödeniş) System.dll
+C:\Users\novbe2\source\repos\Payment (Ödeniş) System\Payment (Ödeniş) System\bin\Debug\net8.0\Payment (Ödeniş) System.pdb
+C:\Users\novbe2\source\repos\Payment (Ödeniş) System\Payment (Ödeniş) System\obj\Debug\net8.0\Payment (Ödeniş) System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novbe2\source\repos\Payment (Ödeniş) System\Payment (Ödeniş) System\obj\Debug\net8.0\Payment (Ödeniş) System.AssemblyInfoInputs.cache
+C:\Users\novbe2\source\repos\Payment (Ödeniş) System\Payment (Ödeniş) System\obj\Debug\net8.0\Payment (Ödeniş) System.AssemblyInfo.cs
+C:\Users\novbe2\source\repos\Payment (Ödeniş) System\Payment (Ödeniş) System\obj\Debug\net8.0\Payment (Ödeniş) System.csproj.CoreCompileInputs.cache
+C:\Users\novbe2\source\repos\Payment (Ödeniş) System\Payment (Ödeniş) System\obj\Debug\net8.0\Payment (Ödeniş) System.dll
+C:\Users\novbe2\source\repos\Payment (Ödeniş) System\Payment (Ödeniş) System\obj\Debug\net8.0\refint\Payment (Ödeniş) System.dll
+C:\Users\novbe2\source\repos\Payment (Ödeniş) System\Payment (Ödeniş) System\obj\Debug\net8.0\Payment (Ödeniş) System.pdb
+C:\Users\novbe2\source\repos\Payment (Ödeniş) System\Payment (Ödeniş) System\obj\Debug\net8.0\Payment (Ödeniş) System.genruntimeconfig.cache
+C:\Users\novbe2\source\repos\Payment (Ödeniş) System\Payment (Ödeniş) System\obj\Debug\net8.0\ref\Payment (Ödeniş) System.dll

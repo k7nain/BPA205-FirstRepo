@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Payment (Ödeniş) System/1.0.0": {
+        "runtime": {
+          "Payment (Ödeniş) System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Payment (Ödeniş) System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
