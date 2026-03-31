@@ -1,0 +1,14 @@
+C:\Users\novbe2\source\repos\SmartHomeSystem(Abstarction)\SmartHomeSystem(Abstarction)\bin\Debug\net8.0\SmartHomeSystem(Abstarction).exe
+C:\Users\novbe2\source\repos\SmartHomeSystem(Abstarction)\SmartHomeSystem(Abstarction)\bin\Debug\net8.0\SmartHomeSystem(Abstarction).deps.json
+C:\Users\novbe2\source\repos\SmartHomeSystem(Abstarction)\SmartHomeSystem(Abstarction)\bin\Debug\net8.0\SmartHomeSystem(Abstarction).runtimeconfig.json
+C:\Users\novbe2\source\repos\SmartHomeSystem(Abstarction)\SmartHomeSystem(Abstarction)\bin\Debug\net8.0\SmartHomeSystem(Abstarction).dll
+C:\Users\novbe2\source\repos\SmartHomeSystem(Abstarction)\SmartHomeSystem(Abstarction)\bin\Debug\net8.0\SmartHomeSystem(Abstarction).pdb
+C:\Users\novbe2\source\repos\SmartHomeSystem(Abstarction)\SmartHomeSystem(Abstarction)\obj\Debug\net8.0\SmartHomeSystem(Abstarction).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novbe2\source\repos\SmartHomeSystem(Abstarction)\SmartHomeSystem(Abstarction)\obj\Debug\net8.0\SmartHomeSystem(Abstarction).AssemblyInfoInputs.cache
+C:\Users\novbe2\source\repos\SmartHomeSystem(Abstarction)\SmartHomeSystem(Abstarction)\obj\Debug\net8.0\SmartHomeSystem(Abstarction).AssemblyInfo.cs
+C:\Users\novbe2\source\repos\SmartHomeSystem(Abstarction)\SmartHomeSystem(Abstarction)\obj\Debug\net8.0\SmartHomeSystem(Abstarction).csproj.CoreCompileInputs.cache
+C:\Users\novbe2\source\repos\SmartHomeSystem(Abstarction)\SmartHomeSystem(Abstarction)\obj\Debug\net8.0\SmartHomeSystem(Abstarction).dll
+C:\Users\novbe2\source\repos\SmartHomeSystem(Abstarction)\SmartHomeSystem(Abstarction)\obj\Debug\net8.0\refint\SmartHomeSystem(Abstarction).dll
+C:\Users\novbe2\source\repos\SmartHomeSystem(Abstarction)\SmartHomeSystem(Abstarction)\obj\Debug\net8.0\SmartHomeSystem(Abstarction).pdb
+C:\Users\novbe2\source\repos\SmartHomeSystem(Abstarction)\SmartHomeSystem(Abstarction)\obj\Debug\net8.0\SmartHomeSystem(Abstarction).genruntimeconfig.cache
+C:\Users\novbe2\source\repos\SmartHomeSystem(Abstarction)\SmartHomeSystem(Abstarction)\obj\Debug\net8.0\ref\SmartHomeSystem(Abstarction).dll
