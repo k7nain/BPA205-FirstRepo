@@ -1,0 +1,14 @@
+C:\Users\novbe2\source\repos\SchoolSystemModel\SchoolSystemModel\bin\Debug\net8.0\SchoolSystemModel.exe
+C:\Users\novbe2\source\repos\SchoolSystemModel\SchoolSystemModel\bin\Debug\net8.0\SchoolSystemModel.deps.json
+C:\Users\novbe2\source\repos\SchoolSystemModel\SchoolSystemModel\bin\Debug\net8.0\SchoolSystemModel.runtimeconfig.json
+C:\Users\novbe2\source\repos\SchoolSystemModel\SchoolSystemModel\bin\Debug\net8.0\SchoolSystemModel.dll
+C:\Users\novbe2\source\repos\SchoolSystemModel\SchoolSystemModel\bin\Debug\net8.0\SchoolSystemModel.pdb
+C:\Users\novbe2\source\repos\SchoolSystemModel\SchoolSystemModel\obj\Debug\net8.0\SchoolSystemModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novbe2\source\repos\SchoolSystemModel\SchoolSystemModel\obj\Debug\net8.0\SchoolSystemModel.AssemblyInfoInputs.cache
+C:\Users\novbe2\source\repos\SchoolSystemModel\SchoolSystemModel\obj\Debug\net8.0\SchoolSystemModel.AssemblyInfo.cs
+C:\Users\novbe2\source\repos\SchoolSystemModel\SchoolSystemModel\obj\Debug\net8.0\SchoolSystemModel.csproj.CoreCompileInputs.cache
+C:\Users\novbe2\source\repos\SchoolSystemModel\SchoolSystemModel\obj\Debug\net8.0\SchoolSystemModel.dll
+C:\Users\novbe2\source\repos\SchoolSystemModel\SchoolSystemModel\obj\Debug\net8.0\refint\SchoolSystemModel.dll
+C:\Users\novbe2\source\repos\SchoolSystemModel\SchoolSystemModel\obj\Debug\net8.0\SchoolSystemModel.pdb
+C:\Users\novbe2\source\repos\SchoolSystemModel\SchoolSystemModel\obj\Debug\net8.0\SchoolSystemModel.genruntimeconfig.cache
+C:\Users\novbe2\source\repos\SchoolSystemModel\SchoolSystemModel\obj\Debug\net8.0\ref\SchoolSystemModel.dll
