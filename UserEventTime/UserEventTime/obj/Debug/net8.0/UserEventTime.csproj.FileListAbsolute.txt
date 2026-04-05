@@ -1,0 +1,14 @@
+C:\Users\ASUS ROG\source\repos\UserEventTime\UserEventTime\bin\Debug\net8.0\UserEventTime.exe
+C:\Users\ASUS ROG\source\repos\UserEventTime\UserEventTime\bin\Debug\net8.0\UserEventTime.deps.json
+C:\Users\ASUS ROG\source\repos\UserEventTime\UserEventTime\bin\Debug\net8.0\UserEventTime.runtimeconfig.json
+C:\Users\ASUS ROG\source\repos\UserEventTime\UserEventTime\bin\Debug\net8.0\UserEventTime.dll
+C:\Users\ASUS ROG\source\repos\UserEventTime\UserEventTime\bin\Debug\net8.0\UserEventTime.pdb
+C:\Users\ASUS ROG\source\repos\UserEventTime\UserEventTime\obj\Debug\net8.0\UserEventTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS ROG\source\repos\UserEventTime\UserEventTime\obj\Debug\net8.0\UserEventTime.AssemblyInfoInputs.cache
+C:\Users\ASUS ROG\source\repos\UserEventTime\UserEventTime\obj\Debug\net8.0\UserEventTime.AssemblyInfo.cs
+C:\Users\ASUS ROG\source\repos\UserEventTime\UserEventTime\obj\Debug\net8.0\UserEventTime.csproj.CoreCompileInputs.cache
+C:\Users\ASUS ROG\source\repos\UserEventTime\UserEventTime\obj\Debug\net8.0\UserEventTime.dll
+C:\Users\ASUS ROG\source\repos\UserEventTime\UserEventTime\obj\Debug\net8.0\refint\UserEventTime.dll
+C:\Users\ASUS ROG\source\repos\UserEventTime\UserEventTime\obj\Debug\net8.0\UserEventTime.pdb
+C:\Users\ASUS ROG\source\repos\UserEventTime\UserEventTime\obj\Debug\net8.0\UserEventTime.genruntimeconfig.cache
+C:\Users\ASUS ROG\source\repos\UserEventTime\UserEventTime\obj\Debug\net8.0\ref\UserEventTime.dll
